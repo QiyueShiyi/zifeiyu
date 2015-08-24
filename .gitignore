@@ -28,3 +28,14 @@ composer.phar
 phpunit.phar
 # local phpunit config
 /phpunit.xml
+
+# gtags files
+GPATH
+GRTAGS
+GTAGS
+
+# upload dirs
+backend/web/uploads/
+
+# components
+components/
